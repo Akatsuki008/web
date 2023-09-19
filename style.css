@@ -755,6 +755,14 @@ section .container {
     text-align: center;
     z-index: 4;
   }
+  
+  .col-lg-6{
+    
+  }
+  /* acm image section bug fixed */
+  .acm-img{
+     width: 100%;
+  }
 
   .portfolio .portfolio-wrap .portfolio-links a {
     color: #fff;
